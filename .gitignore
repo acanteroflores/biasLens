@@ -1,0 +1,27 @@
+# Carpetas comunes a ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+.venv/
+env/
+ENV/
+
+# Configuración de PyCharm
+.idea/
+
+# Archivos del sistema
+.DS_Store
+
+# Exportaciones temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos tuyos específicos que quieras ignorar
+main 2.py
+data/example
+data/old
+instructions.txt
