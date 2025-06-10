@@ -63,7 +63,7 @@
 
 ## 🧠 Modelos utilizados
 
-A excepción de ChatGPT (que requiere un **API_key**) todos los modelos locales pueden ser alterados. Los modelos utilizados han sido seleccionados en base a su país de origen. Con el objetivo de analizar los sesgos adquiridos durante el aprendizaje.
+A excepción de `ChatGPT` (que requiere un **API_key**) todos los modelos locales pueden ser alterados. Los modelos utilizados han sido seleccionados en base a su país de origen. Con el objetivo de analizar los sesgos adquiridos durante el aprendizaje.
 
 Los modelos locales están divididos en dos categorías, *instruct* y *chat*. Los modelos *instruct* son modelos que generalmente trabajan en **temperaturas** mas bajas, pudiendo devolver consistentemente respuesta en formatos específicos. Es por esta razón que son preferibles para este tipo de estudios. Por otro lado los modelo *chat* trabajan con **temperaturas** mas altas y están diseñados para enriquecer el contenido de la respuesta. 
 
@@ -123,7 +123,7 @@ La cantidad de parámetros afecta a la diversidad de información con la que ha 
 
 #### ChatGPT
 
-Debido a que ChatGPT *NO* es un modelo público nos vemos obligados a usar su *API*. Dentro del ecosistema de OpenAI hemos usado la modalidad **Assistants** y no **Responses**. Cabe destacar que la modalidad **Assistants** esta obsoleta y pronto sera retirada de la plataforma.
+Debido a que `ChatGPT` *NO* es un modelo público nos vemos obligados a usar su *API*. Dentro del ecosistema de OpenAI hemos usado la modalidad **Assistants** y no **Responses**. Cabe destacar que la modalidad **Assistants** esta obsoleta y pronto sera retirada de la plataforma.
 
 ⚠️ OBTENER *API KEY* -> https://platform.openai.com/api-keys
 
