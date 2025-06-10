@@ -4,7 +4,7 @@ import time
 import os
 
 # Carga tu API key de forma segura
-openai.api_key = "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"
+openai.api_key = "your_API_key"
 
 # ID del Assistant creado en https://platform.openai.com/assistants
 ASSISTANT_ID = "asst_xYcehHEnP4CnTSiUC62QCphy"
