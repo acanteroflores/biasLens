@@ -17,7 +17,7 @@
    │
    ▼
 📰 Generación de noticias
-				├── generate_news_for_each_model_and_scenario 
+		├── generate_news_for_each_model_and_scenario 
 ├── generate_chatmodel_news
 └── newsGPT
    │
