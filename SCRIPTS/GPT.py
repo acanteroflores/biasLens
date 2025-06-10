@@ -41,7 +41,7 @@ def ask_my_assistant(assistant_id: str, prompt: str) -> str:
 
 import json
 
-ass_id = "asst_UXqJmMCelSeXHw1TZczozDT9"
+ass_id = "your_assistant_ID_here"
 
 
 def newsGPT(path_json: str, campo: str):
@@ -81,7 +81,7 @@ def newsGPT(path_json: str, campo: str):
 
 def scenarioGPT():
     for i in range(2):
-        nuevo_schema = ask_my_assistant("asst_eViGUJDZdyMYCeWOR3JK09IC", prompt="Generate one scenario")
+        nuevo_schema = ask_my_assistant(ass_id, prompt="Generate one scenario")
 
         with open("SCENARIOS/GPTscenarios.json", "r", encoding="utf-8") as archivo:
             data = json.load(archivo)
