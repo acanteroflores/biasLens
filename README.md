@@ -3,7 +3,7 @@
 <div align="center">
 
 <pre>
-      		⚙️ Parámetros principales                              
+      			⚙️ Parámetros principales                              
 ├── modelos_INST
 ├── modelos_CHAT
 ├── instructor
