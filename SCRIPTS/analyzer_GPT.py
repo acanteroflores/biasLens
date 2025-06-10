@@ -7,7 +7,7 @@ import os
 openai.api_key = "your_API_key"
 
 # ID del Assistant creado en https://platform.openai.com/assistants
-ASSISTANT_ID = "asst_xYcehHEnP4CnTSiUC62QCphy"
+ASSISTANT_ID = "insert_assistant_ID_here"
 
 SECTIONS = {
     "Perceived bias": 0.20,
